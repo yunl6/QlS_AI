@@ -1,2 +1,2 @@
 # QlS_AI
-oo
+For more information, please check the readme.pdf file
